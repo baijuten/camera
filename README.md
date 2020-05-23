@@ -1,0 +1,2 @@
+# camera
+connect camera
